@@ -27,7 +27,7 @@
 
 ---
 
-`teler` is an **real-time intrusion detection** and threat alert based on web log that runs in a **terminal** with resources that we collect and provide by the community. :heart:
+`teler` is a **real-time intrusion detection** and threat alert based on web log that runs in a **terminal** with resources that we collect and provide by the community. :heart:
 
 [![teler](https://user-images.githubusercontent.com/25837540/97096468-f8ccaa00-1696-11eb-8830-0d3a7be45a2d.gif)](#)
 
@@ -231,7 +231,7 @@ Please note this will also apply if you save it to a file with `-o` flag.
 
 #### Remove Caches
 
-It will removes all stored resources in the user-level cache directory, see [cache](#cache).
+It will remove all stored resources in the user-level cache directory, see [cache](#cache).
 
 ```bash
 ▶ teler --rm-cache
